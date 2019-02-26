@@ -36,8 +36,8 @@
                 <MenuItem Header="名前を付けて保存(_A)..." Foreground="Black" Command="{Binding SaveAsCommand}"/>
                 <MenuItem Header="終了(_X)" Foreground="Black" Click="CloseWindowMenuClick"/>
             </MenuItem>
-            <MenuItem Header="編集">
-                <MenuItem Header="新規追加" Foreground="Black" Command="{Binding AddNewPersonCommand}"/>
+            <MenuItem Header="編集(_E)">
+                <MenuItem Header="新規追加(_N)" Foreground="Black" Command="{Binding AddNewPersonCommand}"/>
             </MenuItem>
         </Menu>
         <Grid Grid.Row="1">
