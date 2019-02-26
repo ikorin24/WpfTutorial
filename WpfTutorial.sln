@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTutorial", "WpfTutorial\WpfTutorial.csproj", "{AB37D4CF-60F5-400F-8576-F3B7C39C7293}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial1", "WpfTutorial\Tutorial1.csproj", "{AB37D4CF-60F5-400F-8576-F3B7C39C7293}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
